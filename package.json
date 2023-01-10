@@ -31,6 +31,6 @@
     "grunt-mocha-istanbul": "^5.0.2",
     "grunt-mocha-test": "^0.13.3",
     "istanbul": "^0.4.5",
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   }
 }
